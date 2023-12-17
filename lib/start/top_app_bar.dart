@@ -49,7 +49,7 @@ AppBar myRadialBar(BuildContext context) {
       child: Stack(
         children: [
           Text(
-            "Coffee Society",
+            "Trading Post",
             style: GoogleFonts.damion(
               color: Colors.white,
               fontWeight: FontWeight.w500,
