@@ -1,0 +1,1 @@
+// list of global variables used throughout the app
